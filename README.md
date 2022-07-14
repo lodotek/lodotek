@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋 <a href="https://github.com/lodotek"><img src="https://github-readme-stats.vercel.app/api?username=lodotek&count_private=true&include_all_commits=true&hide_rank=true&theme=graywhite&disable_animations=true&custom_title=Stats" align="right" width="320" alt="lotoek's github stats" /></a>
+### Hi there 👋 <a href="https://github.com/lodotek"><img src="https://github-readme-stats.vercel.app/api?username=lodotek&count_private=true&include_all_commits=true&hide_rank=true&theme=graywhite&disable_animations=true&custom_title=Stats" align="right" width="320" alt="lodotek's github stats" /></a>
 
 I'm a DevOps Engineer from California 🌴 
